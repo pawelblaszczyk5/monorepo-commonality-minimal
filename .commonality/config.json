@@ -14,8 +14,7 @@
   },
   "constraints": {
     "*": {
-      "disallow": ["application"],
-      "allow": ["*"]
+      "disallow": ["application"]
     }
   }
 }
