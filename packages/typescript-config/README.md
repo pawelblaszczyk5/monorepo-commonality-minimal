@@ -1,0 +1,2 @@
+# @repo/typescript-config
+> undefined

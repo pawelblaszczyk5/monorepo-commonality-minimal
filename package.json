@@ -16,5 +16,9 @@
   "packageManager": "pnpm@8.9.0",
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "commonality": "^0.2.58",
+    "commonality-checks-recommended": "^0.0.35"
   }
 }
